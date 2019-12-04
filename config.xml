@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "nrc.moodle"
         versionCode = "20150"
         version   = "3.1.3">
-    <name>Moodle Mobile</name>
+    <name>NRC Educarural</name>
 
     <description>
-        Moodle Mobile official app
+        Capacitación Virtual del Consejo Noruego para Refugiados de Colombia para los proyectos PPP de los grados 6to y 7mo.
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
+    <author href="http://www.nrc.org.co/colombia/" email="co.nrc@nrc.no">
+        NRC Colombia
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
